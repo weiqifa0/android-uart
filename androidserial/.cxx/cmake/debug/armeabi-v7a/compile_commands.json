@@ -1,0 +1,25 @@
+[
+{
+  "directory": "D:/source/android-uart/androidserial/.cxx/cmake/debug/armeabi-v7a",
+  "command": "C:\\Users\\weiqifa\\AppData\\Local\\Android\\Sdk\\ndk-bundle\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=armv7-none-linux-androideabi21 --gcc-toolchain=C:/Users/weiqifa/AppData/Local/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/weiqifa/AppData/Local/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dandroid_serial_EXPORTS -I../../../../src/main/jni  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles\\android_serial.dir\\src\\main\\jni\\SerialPort.c.o   -c D:\\source\\android-uart\\androidserial\\src\\main\\jni\\SerialPort.c",
+  "file": "D:/source/android-uart/androidserial/src/main/jni/SerialPort.c"
+},
+
+{
+  "directory": "D:/source/android-uart/androidserial/.cxx/cmake/debug/armeabi-v7a",
+  "command": "C:\\Users\\weiqifa\\AppData\\Local\\Android\\Sdk\\ndk-bundle\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=armv7-none-linux-androideabi21 --gcc-toolchain=C:/Users/weiqifa/AppData/Local/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/weiqifa/AppData/Local/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dandroid_serial_EXPORTS -I../../../../src/main/jni  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles\\android_serial.dir\\src\\main\\jni\\sercd.c.o   -c D:\\source\\android-uart\\androidserial\\src\\main\\jni\\sercd.c",
+  "file": "D:/source/android-uart/androidserial/src/main/jni/sercd.c"
+},
+
+{
+  "directory": "D:/source/android-uart/androidserial/.cxx/cmake/debug/armeabi-v7a",
+  "command": "C:\\Users\\weiqifa\\AppData\\Local\\Android\\Sdk\\ndk-bundle\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=armv7-none-linux-androideabi21 --gcc-toolchain=C:/Users/weiqifa/AppData/Local/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/weiqifa/AppData/Local/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dandroid_serial_EXPORTS -I../../../../src/main/jni  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles\\android_serial.dir\\src\\main\\jni\\android.c.o   -c D:\\source\\android-uart\\androidserial\\src\\main\\jni\\android.c",
+  "file": "D:/source/android-uart/androidserial/src/main/jni/android.c"
+},
+
+{
+  "directory": "D:/source/android-uart/androidserial/.cxx/cmake/debug/armeabi-v7a",
+  "command": "C:\\Users\\weiqifa\\AppData\\Local\\Android\\Sdk\\ndk-bundle\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=armv7-none-linux-androideabi21 --gcc-toolchain=C:/Users/weiqifa/AppData/Local/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/weiqifa/AppData/Local/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dandroid_serial_EXPORTS -I../../../../src/main/jni  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles\\android_serial.dir\\src\\main\\jni\\unix.c.o   -c D:\\source\\android-uart\\androidserial\\src\\main\\jni\\unix.c",
+  "file": "D:/source/android-uart/androidserial/src/main/jni/unix.c"
+}
+]

@@ -1,0 +1,6 @@
+# ninja log v5
+57	719	611559783	CMakeFiles/android_serial.dir/src/main/jni/android.c.o	99c218bdee738e14
+54	790	611559783	CMakeFiles/android_serial.dir/src/main/jni/SerialPort.c.o	1914e838b368460a
+61	887	611559784	CMakeFiles/android_serial.dir/src/main/jni/unix.c.o	2519cc496b29da3b
+1	1042	611559784	CMakeFiles/android_serial.dir/src/main/jni/sercd.c.o	b7fcdabd742079ec
+1042	1162	611559784	../../../../build/intermediates/cmake/debug/obj/armeabi-v7a/libandroid_serial.so	7e765c95318e32f

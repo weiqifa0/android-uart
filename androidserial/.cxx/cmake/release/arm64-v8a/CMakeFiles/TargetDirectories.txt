@@ -1,0 +1,3 @@
+D:/source/android-uart/androidserial/.cxx/cmake/release/arm64-v8a/CMakeFiles/rebuild_cache.dir
+D:/source/android-uart/androidserial/.cxx/cmake/release/arm64-v8a/CMakeFiles/android_serial.dir
+D:/source/android-uart/androidserial/.cxx/cmake/release/arm64-v8a/CMakeFiles/edit_cache.dir
